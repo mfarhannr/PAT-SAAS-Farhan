@@ -20,7 +20,7 @@ function Contact() {
         <FooterDivider />
         <div className="w-full flex justify-center items-center">
           <FooterLinkGroup>
-            <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center mb-4">
+            <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center ">
               <FooterIcon href="#" icon={BsFacebook} />
               <FooterIcon href="#" icon={BsInstagram} />
               <FooterIcon href="#" icon={BsTwitter} />
@@ -29,7 +29,7 @@ function Contact() {
             </div>
           </FooterLinkGroup>
         </div>
-        <FooterCopyright href="#" by="by Farhan" year={2024} />
+        <FooterCopyright href="#" by="Flowbite™" year={2022} />
       </div>
     </Footer>
   );

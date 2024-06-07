@@ -29,7 +29,7 @@ function Contact() {
             </div>
           </FooterLinkGroup>
         </div>
-        <FooterCopyright href="#" by="by Farhan" year={2024} />
+        <FooterCopyright href="#" by="Farhan™" year={2024} />
       </div>
     </Footer>
   );

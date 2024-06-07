@@ -4,7 +4,6 @@ import Hero from "./components/hero";
 import News from "./components/news";
 import Ekstrakurikuler from "./components/ekstrakurikuler";
 import Testimonial from "./components/testimonials";
-import Contact from "./components/footer";
 import "./App.css";
 
 function App() {
@@ -15,7 +14,6 @@ function App() {
       <News />
       <Ekstrakurikuler />
       <Testimonial />
-      <Contact />
     </div>
   );
 }

@@ -1,0 +1,18 @@
+.video-container {
+  position: relative;
+  width: 100%; /* Atur lebar sesuai kebutuhan */
+  height: 0;
+  padding-top: 56.25%; /* Rasio aspek 16:9, ubah sesuai kebutuhan */
+  overflow: hidden;
+  border-radius: 0.75rem; /* rounded-xl */
+}
+
+.custom-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: auto;
+  height: 100%;
+  transform: translate(-50%, -50%);
+  object-fit: cover; /* Ini memungkinkan cropping pada video */
+}

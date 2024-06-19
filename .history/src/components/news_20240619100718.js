@@ -17,7 +17,7 @@ const newsData = [
     link: "#",
   },
   {
-    title: "Memperingati Hari Pendidikan Nasional",
+    title: "MemHari Pendidikan Nasional",
     image: "/src/img/3.jpg",
     description:
       "Belajar bukan sekedar memperoleh ilmu di sekolah. Ini tentang mengembangkan keterampilan baru, memecahkan masalah, dan beradaptasi dengan situasi baru.",

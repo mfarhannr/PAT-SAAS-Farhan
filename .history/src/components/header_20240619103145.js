@@ -3,7 +3,6 @@ import React from "react";
 function Header() {
   return (
     <div id="beranda">
-      <div className="shadow-md">
         <nav className="bg-white border-gray-200 dark:bg-gray-900">
           <div className="container mx-auto">
             <div className="flex flex-wrap items-center justify-between py-4 mx-6">

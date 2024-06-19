@@ -6,7 +6,7 @@ const cardData = [
     imgSrc: "/src/img/coding.jpg",
     alt: "Coding",
     title: "Klub Koding",
-    description: "Pelajari pemrograman dan buat proyek keren di Klub Koding!",
+    description: "elajari pemrograman dan buat proyek keren di Klub Koding!",
   },
   {
     imgSrc: "/src/img/desain.jpg",
@@ -18,13 +18,15 @@ const cardData = [
     imgSrc: "/src/img/game.jpg",
     alt: "Game",
     title: "Klub E-sport",
-    description: "Bersaing dan asah keterampilan gaming-mu di Klub E-sport.",
+    description:
+      "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
   },
   {
     imgSrc: "/src/img/robotik.jpg",
     alt: "Robotik",
     title: "Klub Robotik",
-    description: "ancang dan program robot inovatif di Klub Robotik.",
+    description:
+      "Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.",
   },
   {
     imgSrc: "/src/img/futsal.jpg",

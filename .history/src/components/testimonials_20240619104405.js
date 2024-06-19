@@ -1,0 +1,1 @@
+<div className="w-[40rem]">

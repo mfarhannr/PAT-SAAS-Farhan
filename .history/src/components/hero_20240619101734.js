@@ -3,10 +3,10 @@ import { Button } from "flowbite-react";
 
 function Hero() {
   return (
-    <div id="hero">
+    <div id="hero mt-12">
       <div className="container mx-auto">
         <div
-          className="grid lg:grid-cols-2 items-center my-12"
+          className="grid lg:grid-cols-2 items-center lg:my-6 my-3"
           id="home"
         >
           <div className="mx-6 lg:pe-12 text-justify lg:order-1 order-2">

@@ -6,7 +6,7 @@ const cardData = [
     imgSrc: "/src/img/coding.jpg",
     alt: "Coding",
     title: "Klub Koding",
-    description: "Pelajari pemrograman dan buat proyek keren di Klub Koding!",
+    description: "elajari pemrograman dan buat proyek keren di Klub Koding!",
   },
   {
     imgSrc: "/src/img/desain.jpg",
